@@ -1,6 +1,6 @@
 # BASIC AI FACE ATTENDANCE
 
-Foobar is a Python library for dealing with word pluralization.
+
 
 ## Installation
 
